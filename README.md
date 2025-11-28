@@ -26,3 +26,21 @@ Ao final, o programa exibe uma mensagem de agradecimento ao usuário.
 3. Execute no terminal ou prompt de comando com:
 
 ](if_elif_else.py)
+## ARQUIVO: for_while.py - Estruturas de Repetição
+[🧩 Contador de Números Pares (FOR e WHILE)
+
+Este programa exibe apenas os números pares entre 1 e 100, utilizando duas estruturas de repetição:
+
+FOR → percorre os números automaticamente dentro do intervalo
+
+WHILE → conta manualmente até atingir o limite
+
+Para identificar se o número é par, o programa verifica se o resultado da divisão por 2 tem resto igual a zero (numero % 2 == 0).
+
+Ambas as estruturas geram o mesmo resultado final, apenas com maneiras diferentes de repetir o código.
+
+▶️ Como executar o programa
+
+Salve o arquivo com o nome contador_pares.py
+
+ Execute no terminal ou CMD com o comando:python contador_pares.py] (for_while.py)
