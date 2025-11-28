@@ -3,7 +3,7 @@ Projeto de fundamentos em pytons  — Avaliação A1
 [Repositório destinado à Avaliação A1 da disciplina Técnicas de Desenvolvimento de Algoritmos, com foco em Estruturas Condicionais, Estruturas de Repetição, Listas e Dicionários, desenvolvidas por meio de atividades práticas durante o curso.](caminho/do/if_elif_else.py)
 
 ## ARQUIVO: if_elif_else.py - Estruturas Condicionais
-[#  Sistema de Verificação de Idade para Eventos
+#  Sistema de Verificação de Idade para Eventos
 
 Este programa realiza a verificação da idade informada pelo usuário para determinar se a entrada em um evento é permitida ou não.
 
@@ -25,9 +25,9 @@ Ao final, o programa exibe uma mensagem de agradecimento ao usuário.
     `verificacao_idade.py`
 3. Execute no terminal ou prompt de comando com:
 
-](if_elif_else.py)
+(if_elif_else.py)
 ## ARQUIVO: for_while.py - Estruturas de Repetição
-[🧩 Contador de Números Pares (FOR e WHILE)
+# Contador de Números Pares (FOR e WHILE)
 
 Este programa exibe apenas os números pares entre 1 e 100, utilizando duas estruturas de repetição:
 
@@ -43,4 +43,4 @@ Ambas as estruturas geram o mesmo resultado final, apenas com maneiras diferente
 
 Salve o arquivo com o nome contador_pares.py
 
- Execute no terminal ou CMD com o comando:python contador_pares.py] (for_while.py)
+ Execute no terminal ou CMD com o comando:python contador_pares.py (for_while.py)
