@@ -45,4 +45,45 @@ Salve o arquivo com o nome contador_pares.py
 
  Execute no terminal ou CMD com o comando:python contador_pares.py (for_while.py)
 
+ # ARQUIVO: dicionários.py - Dicionários
+ ## Sistema de Cadastro de Produtos com Dicionário
+
+Este programa permite cadastrar produtos com seus respectivos preços e armazená-los em um dicionário no Python.
+O usuário pode cadastrar vários produtos e encerrar a qualquer momento digitando "sair".
+
+Cada produto é salvo como:
+
+Chave → nome do produto
+
+Valor → preço do produto
+
+Ao finalizar o cadastro, o sistema exibe todos os produtos inseridos.
+▶️ Como executar o programa
+
+1️⃣ Salve o arquivo com o nome:
+
+cadastro_produtos.py
+
+
+2️⃣ Execute o script no terminal ou CMD com:
+
+python cadastro_produtos.py
+
+📝 Exemplo de uso
+
+Entrada do usuário:
+
+Digite o nome do produto (ou 'sair' para encerrar): Arroz
+Digite o preço do produto: R$ 7.50
+Digite o nome do produto (ou 'sair' para encerrar): Feijão
+Digite o preço do produto: R$ 8.20
+Digite o nome do produto (ou 'sair' para encerrar): sair
+
+
+Saída exibida:
+
+Lista de produtos cadastrados:
+- Arroz: R$ 7.50
+- Feijão: R$ 8.20
+
  
