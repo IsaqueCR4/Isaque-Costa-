@@ -1,6 +1,7 @@
-#Projeto de fundamentos em pytons  — Avaliação A1
+#ARQUIVO: PROJETO-AVALIACÃO_REGIMENTAL-A1
+##Projeto de fundamentos em pytons  — Avaliação A1
 
-[Repositório destinado à Avaliação A1 da disciplina Técnicas de Desenvolvimento de Algoritmos, com foco em Estruturas Condicionais, Estruturas de Repetição, Listas e Dicionários, desenvolvidas por meio de atividades práticas durante o curso.](caminho/do/if_elif_else.py)
+Repositório destinado à Avaliação A1 da disciplina Técnicas de Desenvolvimento de Algoritmos, com foco em Estruturas Condicionais, Estruturas de Repetição, Listas e Dicionários, desenvolvidas por meio de atividades práticas durante o curso.
 
 # ARQUIVO: if_elif_else.py - Estruturas Condicionais
 ##  Sistema de Verificação de Idade para Eventos
